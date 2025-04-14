@@ -1,0 +1,26 @@
+Microkernel Goes General:
+Performance and Compatibility
+in the HongMeng Production Microkernel
+https://www.usenix.org/system/files/osdi24-chen-haibo.pdf
+
+
+
+L4 Microkernels: The Lessons from 20 Years of Research and Deployment
+https://dl.acm.org/doi/10.1145/2893177
+
+
+MicroTEE: Designing TEE OS Based on the Microkernel Architecture
+https://arxiv.org/abs/1908.07159
+
+基于多核处理器架构的嵌入式微内核操作系统的研究与设计
+https://kns.cnki.net/kcms2/article/abstract?v=5nxW69XXs-6pyEQJgId-GCAK3Ak_uavFG-J_ENcEDWJ4hIGxroaE4ZLUunvW1PG9vGZT6tCBOvMfoCs-liUCopV1bUwFL35S0MfteuYLZzP7nQY5jvV24TqsIV0SKXXFb5gCmFVE7TLx_mS77rfT3l81Qkc7wz9BNuUWwuJfufdyygMULnOY1A==&uniplatform=NZKPT&language=CHS
+
+
+
+
+
+
+
+
+
+
